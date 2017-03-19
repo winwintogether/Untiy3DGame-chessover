@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\Menus.cs">
+    <Files>
+      <File FileName="Assets\scripts\ThirdManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\setting.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Menus.cs" Line="68" Column="54" />
+      <File FileName="Assets\script\Delay30.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\road.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Finish.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\Manage_Carrer.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
